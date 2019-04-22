@@ -1,4 +1,4 @@
-# data-structure-python
+# Data Structure Python
 This repository contains some data structures implementation in python programming language.
 
 ## Data Structures List:
@@ -19,3 +19,5 @@ This repository contains some data structures implementation in python programmi
 * Tree – Binary Search Tree – BST [Find Maximum and Minimum value]
 * Tree – Binary Search Tree – BST [Delete any node of BST]
 * Tree – Binary Search Tree – BST [Checking: Is it a BST or Not?]
+
+# MIT License
